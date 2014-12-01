@@ -3,11 +3,6 @@
  <header>
   <DateModified>2014-12-01T15:14:22</DateModified>
   <ModuleName>contador5</ModuleName>
-  <SummaryTimeStamp>2014-12-01T15:14:21</SummaryTimeStamp>
-  <SavedFilePath>C:/Users/Gonzalo/Desktop/TRABAJO SED/Contadoroctal/iseconfig/ContadorOctal.xreport</SavedFilePath>
-  <ImplementationReportsDirectory>C:/Users/Gonzalo/Desktop/TRABAJO SED/Contadoroctal</ImplementationReportsDirectory>
-  <DateInitialized>2014-12-01T15:14:22</DateInitialized>
-  <EnableMessageFiltering>false</EnableMessageFiltering>
  </header>
  <body>
   <viewgroup label="Design Overview" >
