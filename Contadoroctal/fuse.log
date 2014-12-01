@@ -1,0 +1,22 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib secureip -o C:/Users/Gonzalo/Desktop/TRABAJO SED/Contadoroctal/contador5_tb_vhd_isim_beh.exe -prj C:/Users/Gonzalo/Desktop/TRABAJO SED/Contadoroctal/contador5_tb_vhd_beh.prj work.contador5_tb_vhd 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Parsing VHDL file "C:/Users/Gonzalo/Desktop/TRABAJO SED/Contadoroctal/ContadorOctal.vhd" into library work
+Parsing VHDL file "C:/Users/Gonzalo/Desktop/TRABAJO SED/Contadoroctal/ContadorOctal_tb.vhd" into library work
+ERROR:HDLCompiler:806 - "C:/Users/Gonzalo/Desktop/TRABAJO SED/Contadoroctal/ContadorOctal_tb.vhd" Line 30: Syntax error near "Departamento".
+ERROR:HDLCompiler:854 - "C:/Users/Gonzalo/Desktop/TRABAJO SED/Contadoroctal/ContadorOctal_tb.vhd" Line 32: Unit <contador5_tb_vhd> ignored due to previous errors.
+ERROR:HDLCompiler:374 - "C:/Users/Gonzalo/Desktop/TRABAJO SED/Contadoroctal/ContadorOctal_tb.vhd" Line 34: Entity <contador5_tb_vhd> is not yet compiled.
+ERROR:HDLCompiler:69 - "C:/Users/Gonzalo/Desktop/TRABAJO SED/Contadoroctal/ContadorOctal_tb.vhd" Line 38: <std_logic> is not declared.
+ERROR:HDLCompiler:69 - "C:/Users/Gonzalo/Desktop/TRABAJO SED/Contadoroctal/ContadorOctal_tb.vhd" Line 39: <std_logic_vector> is not declared.
+ERROR:HDLCompiler:69 - "C:/Users/Gonzalo/Desktop/TRABAJO SED/Contadoroctal/ContadorOctal_tb.vhd" Line 43: <std_logic> is not declared.
+ERROR:HDLCompiler:69 - "C:/Users/Gonzalo/Desktop/TRABAJO SED/Contadoroctal/ContadorOctal_tb.vhd" Line 45: <std_logic_vector> is not declared.
+ERROR:HDLCompiler:69 - "C:/Users/Gonzalo/Desktop/TRABAJO SED/Contadoroctal/ContadorOctal_tb.vhd" Line 49: <clk> is not declared.
+ERROR:HDLCompiler:69 - "C:/Users/Gonzalo/Desktop/TRABAJO SED/Contadoroctal/ContadorOctal_tb.vhd" Line 50: <cuenta> is not declared.
+ERROR:HDLCompiler:192 - "C:/Users/Gonzalo/Desktop/TRABAJO SED/Contadoroctal/ContadorOctal_tb.vhd" Line 50: Actual of formal out port cuenta cannot be an expression
+ERROR:HDLCompiler:69 - "C:/Users/Gonzalo/Desktop/TRABAJO SED/Contadoroctal/ContadorOctal_tb.vhd" Line 54: <clk> is not declared.
+ERROR:HDLCompiler:69 - "C:/Users/Gonzalo/Desktop/TRABAJO SED/Contadoroctal/ContadorOctal_tb.vhd" Line 55: <ns> is not declared.
+ERROR:HDLCompiler:69 - "C:/Users/Gonzalo/Desktop/TRABAJO SED/Contadoroctal/ContadorOctal_tb.vhd" Line 56: <clk> is not declared.
+ERROR:HDLCompiler:69 - "C:/Users/Gonzalo/Desktop/TRABAJO SED/Contadoroctal/ContadorOctal_tb.vhd" Line 57: <ns> is not declared.
+VHDL file C:/Users/Gonzalo/Desktop/TRABAJO SED/Contadoroctal/ContadorOctal_tb.vhd ignored due to errors

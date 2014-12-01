@@ -1,0 +1,2 @@
+vhdl isim_temp "ContadorOctal.vhd"
+vhdl isim_temp "ContadorOctal_tb.vhd"
